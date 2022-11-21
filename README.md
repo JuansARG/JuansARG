@@ -9,7 +9,7 @@
            <img src="https://img.shields.io/badge/Instagram-fc6484?style=for-the-badge&logo=Instagram&logoColor=white%22%3E"</img>
   </a>
   <a href="mailto:juansarmientog96@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d43000?style=for-the-badge&logo=Gmail&logoColor=white%22%3E</img>
+  <img src="https://img.shields.io/badge/Gmail-d43000?style=for-the-badge&logo=Gmail&logoColor=white%22%3E"</img>
    </a>
 </div>
 <hr>
