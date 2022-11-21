@@ -13,4 +13,4 @@
    </a>
 </div>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=JuansARG&show_icons=true&theme=synthwave"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=JuansARG&show_icons=true&theme=tokyonight"></img>
