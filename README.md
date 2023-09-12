@@ -1,4 +1,4 @@
 - 👋 Hola, mi nombre es Juan Igancio Sarmiento
 - 👀 Soy Desarrollador de aplicaciones Web Full Stack Java & Vue
 - 🌱 Siempre en constante formación
-- 📫 (https://www.linkedin.com/in/juanisat/)https://www.linkedin.com/in/juanisat/
+- 📫 https://www.linkedin.com/in/juanisat/
